@@ -1,4 +1,5 @@
 # nuxt-typescript-decorators
+The purpose of this project is to demostrate how to use Typescript and Decorators in a nuxt.js project.
 
 ## Build Setup
 
